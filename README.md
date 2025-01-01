@@ -87,9 +87,9 @@ To use this application, you need an API key from Gemini. Follow these steps to 
 
 ### Chat Interface
 
-![image2](https://github.com/user-attachments/assets/9f849214-8a6e-4c84-81a4-5251f54bc54e)
 ![home](https://github.com/user-attachments/assets/94b40481-f317-40db-8b69-7982cd703bbe)
 ![image1](https://github.com/user-attachments/assets/3d01cec9-5bda-4ed3-9b3a-e05fe84c4c95)
+![image2](https://github.com/user-attachments/assets/9f849214-8a6e-4c84-81a4-5251f54bc54e)
 
 ## Technologies Used
 
